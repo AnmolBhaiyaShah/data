@@ -26,6 +26,6 @@
 
 'force_motd':'Force_motd',
 'Announcement':'Temp_Announcement',
-'Force_permanent_announcement':'Perma_anncmnt',
+'Force_permanent_announcement':'',
 
 }
