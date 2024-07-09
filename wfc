@@ -24,8 +24,8 @@
 
 'Latest version':1.1,
 
-'force_motd':'Force_motd',
-'Announcement':'Temp_Announcement',
+'force_motd':'',
+'Announcement':'',
 'Force_permanent_announcement':'',
 
 }
