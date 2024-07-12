@@ -6,4 +6,4 @@ text_color = white
 bgcolor = black
 writing_speed = 5
 show_runtime = True
-create_output_file = 1
+create_output_file = True
