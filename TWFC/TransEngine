@@ -1,0 +1,9 @@
+[Engine]
+player_name = Default
+friend_list = []
+font = Courier New
+text_color = white
+bgcolor = black
+writing_speed = 5
+show_runtime = True
+create_output_file = 1
