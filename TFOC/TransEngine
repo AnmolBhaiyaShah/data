@@ -1,6 +1,6 @@
 [Engine]
-player_name = Default
-friend_list = []
+player_whsID = 0
+friendID_list = []
 font = Courier New
 text_color = white
 bgcolor = black
