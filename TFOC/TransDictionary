@@ -41,5 +41,5 @@
 'dm_disabled':True,
 
 'Announcement':'Temp',
-'Force_permanent_announcement':'Test'
+'Force_permanent_announcement':''
 }
