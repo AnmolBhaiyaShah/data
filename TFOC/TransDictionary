@@ -37,9 +37,9 @@
 
 'Latest version':1.0,
 
-'force motd':'MoTd',
-'dm_disabled':True,
+'force motd':'',
+'dm_disabled':False,
 
-'Announcement':'Temp',
+'Announcement':'',
 'Force_permanent_announcement':''
 }
