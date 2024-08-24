@@ -1,6 +1,5 @@
 [Engine]
 player_steamid = 0
-friend_list = []
 font = Courier New
 text_color = white
 bgcolor = black
