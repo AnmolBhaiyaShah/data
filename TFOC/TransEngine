@@ -1,5 +1,5 @@
 [Engine]
-player_steamid = 0
+player_name = 'Default'
 font = Courier New
 text_color = white
 bgcolor = black
