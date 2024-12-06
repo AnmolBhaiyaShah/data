@@ -26,6 +26,6 @@
 
 'force_motd':'',
 'Announcement':'',
-'Force_permanent_announcement':'Servers are down until further notice',
+'Force_permanent_announcement':'Servers are down until further notice\n  Stay tuned!',
 
 }
