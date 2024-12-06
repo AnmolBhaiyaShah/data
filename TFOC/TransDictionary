@@ -41,5 +41,5 @@
 'dm_disabled':False,
 
 'Announcement':'',
-'Force_permanent_announcement':''
+'Force_permanent_announcement':'Servers are down until further notice\n  Stay tuned!'
 }
